@@ -28,6 +28,7 @@ function App() {
         <Route path="/contact" component={ContactUs}></Route>
         <Route path="/about" component={OurCompany}></Route>
         <Route path="/details" component={Details}></Route>
+        <Route path="/details" component={Details}></Route>
         <Route component={Default}></Route>
       </Switch>
 
